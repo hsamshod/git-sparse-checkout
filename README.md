@@ -1,4 +1,4 @@
 # git-sparse-checkout
-Test repo for git-sparse-checkout feat
+git-sparse-checkout bilan tanishuv
 
-readme changes
+git-sparse-checkout haqida [bu yerda](https://t.me/shamshod_blog/585) o'qing
